@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">discover</string>
+
+    <string name="action_do_ok">OK</string>
+    <string name="action_do_cancel">キャンセル</string>
+
+    <string name="mesasge_discover">%s discover!</string>
+</resources>
